@@ -50,3 +50,11 @@ button:houver{
     background: #E65100;
     color:wheat;
 }
+main{
+    
+    justify-content:space-around ;
+    width:100vw;
+    display: flex;
+    align-items: center;
+}
+
