@@ -58,9 +58,41 @@ main{
     align-items: center;
 }
 img{
-    width: 200px;  
-    height: 200px; 
+    width: 290px;  
+    height: 286px; 
     border-radius: 50%; 
 ;
 }
+@media screen and(max-width: 1600px) and(min-width:1325px){
+    section{
+        width: 100%;
+    }
+}
+@media(max-width:1324px)and(min-width:1125px){
+    section{
+        width: 100%;
+    }
+}
+@media(max-width: 1224px)and(min-width:1001px){
+    section{
+        width: 100%;
+    }
+}
+@media(max-width: 1000px)and(min-width:936px){
+    section{
+        width: 100%;
+    }
+}
+@media(max-width: 761px)and(min-width:640px){
+    section{
+        width: 100%;
+    }
+}
+
+@media(max-width: 639px)and(min-width:502x){
+    section{
+        width: 100%;
+    }
+}
+
 
