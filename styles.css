@@ -68,7 +68,7 @@ img{
         width: 100%;
     }
 }
-@media(max-width:1324px)and(min-width:1125px){
+@media (max-width:1324px)and(min-width:1125px){
     section{
         width: 100%;
     }
