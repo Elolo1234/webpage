@@ -13,3 +13,10 @@ h1{
     color: rgb(221, 14, 110);
     font-size: 2.5em;
 }
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 20px;
+}
+
